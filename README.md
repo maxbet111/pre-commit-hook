@@ -11,4 +11,4 @@
 Щоб встановити хук у будь-який локальний Git-репозиторій, виконайте команду у кореневій папці вашого проєкту:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/ВАШ_ЛОГІН/pre-commit-hook/main/install.sh(https://raw.githubusercontent.com/ВАШ_ЛОГІН/pre-commit-hook/main/install.sh) | bash
+curl -sSL [https://raw.githubusercontent.com/ВАШ_ЛОГІН/pre-commit-hook/main/install.sh (https://raw.githubusercontent.com/ВАШ_ЛОГІН/pre-commit-hook/main/install.sh) | bash
